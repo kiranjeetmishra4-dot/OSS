@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Shivansh
+# Author: Kiranjeet
 
 echo "======================================"
 echo " Open Source Manifesto Generator"
