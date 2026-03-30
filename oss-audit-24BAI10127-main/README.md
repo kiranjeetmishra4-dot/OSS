@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* **Name:** Shivansh Tewari
-* **Roll Number:** 24BAI10112
+* **Name:** Kiranjeet Mishra
+* **Roll Number:** 24BAI10127
 
 ---
 
